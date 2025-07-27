@@ -81,3 +81,19 @@ h1 {
 .video-list li {
   flex: 1 1 300px;
 }
+.membership {
+  padding: 20px;
+  background-color: #f3f3f3;
+  border-radius: 10px;
+  max-width: 600px;
+  margin: auto;
+}
+
+.membership input,
+.membership select {
+  width: 100%;
+  padding: 8px;
+  margin: 6px 0;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}

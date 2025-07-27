@@ -69,3 +69,15 @@ h1 {
     padding: 15px;
     color: #333;
 }
+.video-list {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+  padding: 0;
+  list-style: none;
+  margin: 20px 0;
+}
+
+.video-list li {
+  flex: 1 1 300px;
+}
